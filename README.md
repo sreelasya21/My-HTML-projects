@@ -34,7 +34,7 @@ git clone https://github.com/extravagent2/My-HTML-projects.git
 If you have suggestions or find any issues, feel free to open a pull request or issue!
 
 📫 Contact Me
-GitHub: extravagent2
+GitHub: sreelasya21
 
 🔆 lasportfolio.ccbp.tech
 This is the link to my website
